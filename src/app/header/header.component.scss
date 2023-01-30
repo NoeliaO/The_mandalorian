@@ -1,0 +1,17 @@
+@import "../partials/colors";
+@import "../partials/fonts";
+
+div{
+  align-content: center;
+  // background-color: $my-primary;
+}
+
+h1{
+  font-family: $font-title;
+  font-size: xx-large;
+  text-align: center;
+  // color: linear-gradient(0deg, rgba(194,159,146,1) 0%, rgba(48,18,8,1) 100%);
+}
+span{
+  text-align: center;
+}

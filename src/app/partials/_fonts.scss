@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "mandalorian";
+  src: url(../../assets/fonts/mandalorian.ttf) format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "sith";
+  src: url(../../assets/fonts/sith.ttf) format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "sw";
+  src: url(../../assets/fonts/sw.ttf) format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+$font-title: "mandalorian";
+$font-sith: "sith";
+$font-sw: "sw";
