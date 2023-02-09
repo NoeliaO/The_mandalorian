@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "The Mandalorian",
+      "actor": "Pedro Pascal",
+      "role": "Protagonist",
+      "image_url": "https://static.wikia.nocookie.net/esstarwars/images/8/8a/Pascal_as_The_Mando-Advanced_Graphics.png/revision/latest?cb=20191205034457"
+    },
+    {
+      "name": "Grogu",
+      "actor": "Unknown",
+      "role": "Companion",
+      "image_url": "https://static.wikia.nocookie.net/esstarwars/images/4/43/TheChild-Fathead.png/revision/latest/scale-to-width-down/350?cb=20200121062400"
+    },
+    {
+      "name": "Moff Gideon",
+      "actor": "Giancarlo Esposito",
+      "role": "Antagonist",
+      "image_url": "https://static.wikia.nocookie.net/esstarwars/images/8/80/MoffGideon_S02E04.jpg/revision/latest/scale-to-width-down/348?cb=20201208010011"
+    },
+    {
+      "name": "Cara Dune",
+      "actor": "Gina Carano",
+      "role": "Ally",
+      "image_url": "https://static.wikia.nocookie.net/esstarwars/images/3/32/CaraDuneS2-EW.png/revision/latest/scale-to-width-down/350?cb=20201206063011"
+    },
+    {
+      "name": "Greef Karga",
+      "actor": "Carl Weathers",
+      "role": "Ally/Antagonist",
+      "image_url": "https://static.wikia.nocookie.net/esstarwars/images/b/be/Carga_Mandalorian.png/revision/latest?cb=20190601224204"
+    },
+    {
+      "name": "Dr. Pershing",
+      "actor": "Omid Abtahi",
+      "role": "Antagonist",
+      "image_url": "https://static.wikia.nocookie.net/esstarwars/images/8/81/Pershing.png/revision/latest/scale-to-width-down/350?cb=20191115213034"
+    },
+    {
+      "name": "IG-11",
+      "actor": "Taika Waititi",
+      "role": "Companion/Antagonist",
+      "image_url": "https://static.wikia.nocookie.net/esstarwars/images/d/de/IG-11_Advanced_Graphics.png/revision/latest/scale-to-width-down/227?cb=20191116133830"
+    },
+    {
+      "name": "Wuher",
+      "actor": "Mark Boone Junior",
+      "role": "Supporting Character",
+      "image_url": "https://static.wikia.nocookie.net/esstarwars/images/0/0a/Wuher.jpg/revision/latest?cb=20110124015110"
+    },
+    {
+      "name": "The Client",
+      "actor": "Werner Herzog",
+      "role": "Antagonist",
+      "image_url": "https://static.wikia.nocookie.net/esstarwars/images/d/dc/The_Client.jpg/revision/latest/scale-to-width-down/339?cb=20191114140024"
+    },
+    {
+      "name": "Mythrol",
+      "actor": "Horatio Sanz",
+      "role": "Supporting Character",
+      "image_url": "https://static.wikia.nocookie.net/esstarwars/images/3/35/Mythrol_Bounty.png/revision/latest/scale-to-width-down/350?cb=20191113185043"
+    },
+    {
+      "name": "Mayfeld",
+      "actor": "Bill Burr",
+      "role": "Supporting Character",
+      "image_url": "https://static.wikia.nocookie.net/esstarwars/images/8/84/Mayfeld_The_Mandalorian.png/revision/latest/scale-to-width-down/350?cb=20201211232959"
+    },
+    {
+      "name": "Boba Fett",
+      "actor": "Temuera Morrison",
+      "role": "Supporting Character",
+      "image_url": "https://static.wikia.nocookie.net/esstarwars/images/a/a7/TBBF_Boba_Fett.png/revision/latest/scale-to-width-down/318?cb=20211209014423"
+    },
+    {
+      "name": "Bo-Katan Kryze",
+      "actor": "Katee Sackhoff",
+      "role": "Supporting Character",
+      "image_url": "https://static.wikia.nocookie.net/esstarwars/images/3/35/BoKatanKryze-AG.png/revision/latest/scale-to-width-down/350?cb=20220912203745"
+    }
+  ]
+}

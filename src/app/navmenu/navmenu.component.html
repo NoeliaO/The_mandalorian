@@ -1,1 +1,30 @@
-<p>navmenu works!</p>
+<mat-drawer-container class="example-container">
+  <mat-drawer mode="side" opened>
+    <mat-list>
+      <mat-list-item>
+        <button mat-stroked-button routerLink="home">
+          <mat-icon>home</mat-icon>
+          <span>Main</span>
+        </button>
+      </mat-list-item>
+      <mat-divider></mat-divider>
+      <mat-list-item>
+        <button mat-stroked-button routerLink="characters">
+          <mat-icon>assignment_ind</mat-icon>
+          <span>Characters</span>
+        </button>
+      </mat-list-item>
+      <mat-divider></mat-divider>
+      <mat-list-item>
+        <button  mat-stroked-button routerLink="video">
+          <mat-icon>4k</mat-icon>
+          <span>Video</span>
+        </button>
+      </mat-list-item>
+    </mat-list>
+  </mat-drawer>
+  <mat-drawer-content>
+    <router-outlet></router-outlet>
+  </mat-drawer-content>
+</mat-drawer-container>
+

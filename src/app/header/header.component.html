@@ -1,5 +1,24 @@
 <div>
   <mat-toolbar>
-    <span><h1 class="mat-display-1">THE MANDALORIAN</h1></span>
+    <button mat-icon-button [matMenuTriggerFor]="menu" aria-label="Example icon-button with a menu">
+      <mat-icon>more_vert</mat-icon>
+    </button>
+    <mat-menu #menu="matMenu">
+      <button mat-menu-item routerLink="home">
+        <mat-icon>home</mat-icon>
+        <span>Main</span>
+      </button>
+      <button mat-menu-item routerLink="characters">
+        <mat-icon>assignment_ind</mat-icon>
+        <span>Characters</span>
+      </button>
+      <button mat-menu-item routerLink="video">
+        <mat-icon>4k</mat-icon>
+        <span>Video</span>
+      </button>
+    </mat-menu>
+    <div class="title">
+      <h1>THE MANDALORIAN</h1>
+    </div>
   </mat-toolbar>
 </div>

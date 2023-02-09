@@ -9,6 +9,9 @@ import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
 import { HomeComponent } from './home/home.component';
 import { NavmenuComponent } from './navmenu/navmenu.component';
+import { CharactersComponent } from './characters/characters.component';
+import { VideosComponent } from './videos/videos.component';
+import { CardsComponent } from './characters/cards/cards.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +19,10 @@ import { NavmenuComponent } from './navmenu/navmenu.component';
     HeaderComponent,
     FooterComponent,
     HomeComponent,
-    NavmenuComponent
+    NavmenuComponent,
+    CharactersComponent,
+    VideosComponent,
+    CardsComponent
   ],
   imports: [
     BrowserModule,
